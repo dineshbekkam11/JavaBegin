@@ -6,6 +6,5 @@ public class MotorBikeRunner {
         MotorBike Activa = new MotorBike();
         glamour.Start();
         Activa.Start();
-        
     }
 }
